@@ -3,6 +3,7 @@
 ## Description:
 I was asked to refactor an existing code of Horiseon's website. I was supposed to do accomplish the following:
 
+- Consolodate the CSS code
 - Add semantic HTML elements
 - Make sure all HTML elements follow a structure independent of styling and positioning.
 - Have a codebase that follows an accessibility standards; adding alt on images and icons.
