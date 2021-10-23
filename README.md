@@ -16,6 +16,14 @@ Website's Appearance:
 
 ![Appearance](assets/gifs/Gif1.gif)
 
-Website's Functionality:
+### Built With
 
-![Functionality](assets/gifs/Gif2.gif)
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+
+## Project Link
+[Horiseon's Website](https://micsdz.github.io/code-refactor-horiseon/)
+
+## Contact Info
+
+Micah Diaz - micah.diaz@du.edu
