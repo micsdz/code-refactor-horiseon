@@ -1,6 +1,6 @@
 # Horiseon's Code Refractor
 
-## Decription:
+## Description:
 I was asked to refactor an existing code of Horiseon's website. I was supposed to do accomplish the following:
 
 - Add semantic HTML elements
